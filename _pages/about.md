@@ -3,8 +3,28 @@ permalink: /about/
 title: "About"
 ---
 
-A seasoned Technical Project Manager with a proven track record of delivering complex software and AI initiatives on time and under budget, I blend deep technical expertise with strategic vision to drive product, program, and organizational success. Holding a PMP certification and with five years of experience in healthcare IT, Web3, and AI product development, I’ve led globally distributed teams of up to 12 engineers, designers, and stakeholders—boosting velocity by as much as 30% through agile workflows, clear documentation, and continuous feedback loops.
+Hi! I'm Nathan Hahn and you're exploring my portfolio! I am a PMP-certified project manager and generalist with experience leading cross-functional teams to build innovative products, design and execute on organizational strategy, and drive operational excellence and process optimization. I have experience across Web3, AI, and Healthcare. As a team builder and leader, I take programs from 0→1 and develop efficient processes to meet strategic goals.
 
-As a strategic leader, I partner closely with C-suite stakeholders to translate high-level business goals into actionable roadmaps. At MerkleRoot, I spearheaded the development of an AI-powered food-service assistant that doubled daily user engagement while slashing operating costs by 90%. I’ve identified market-gap opportunities in decentralized finance, collaborated with design and engineering to prototype winning solutions, and guided cross-functional teams through every phase of the product lifecycle.
+Key Skills:
+• Cross-functional project management
+• Program ownership
+• Process optimization
+• Data analysis
+• and Stakeholder alignment
 
-Equally comfortable in the trenches or the boardroom, my operational leadership spans process optimization, resource planning, and risk mitigation—ensuring smooth program execution and scalable operations. I leverage tools like Jira, Confluence, Figma, and GitHub Projects to keep teams aligned, communicate transparently, and adapt quickly to changing requirements.
+Impact:
+• Built Employee Experience Program and Team - Designed and implemented employee programs to improve employee satisfaction, retention, and performance. Improved metrics by 25% over the first year active.
+• Increased cross-functional team velocity by 25% by optimizing Agile practices and building Jira and GitHub automations for remote, asynchronous engineering, QA, and product management teams.
+• Reduced development timeline by 20% by leading design and development on a IAM microservice that integrated across 6 client products.
+
+Tools I use:
+•
+
+Certifications:
+•
+
+Education:
+• 
+
+More about me:
+I am a devoted husband, dog dad, and tennis junkie. In my free time, I love going on walks and experimenting with new recipes with my wife. When I'm not doing that, I am often working on my tennis game or gaming with friends (lifelong CS player).
