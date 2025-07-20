@@ -57,9 +57,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Nathan Hahn"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : >- 
+    "Technical Project Manager and PMP-certified leader with 5+ years driving Web3, AI, and healthcare IT initiatives—boosting team velocity by up to 30% through agile excellence. Strategic generalist and operational expert, adept at partnering with executives to translate vision into scalable products and programs"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
